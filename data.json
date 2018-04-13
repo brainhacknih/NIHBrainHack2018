@@ -42,7 +42,7 @@
                             {"time": "10:30-10:45", "event": "Coffee break"},
                             {"time": "10:45-12:30", "event": "Open Hacking"},
                             {"time": "12:30-13:30", "event": "Lunch break"},
-                            {"time": "13:30-14:00", "event": "Demo TBD"},
+                            {"time": "13:30-14:00", "event": "NITRC/ReproNim Demo-Matt Travers"},
                             {"time": "14:00-17:00", "event": "Open hacking"},
                             {"time": "17:00-18:00", "event": "Project report and concluding remarks"}]}
                   ],
@@ -51,6 +51,6 @@
     "location_url":"https://www.nih.gov/",
     "google_maps_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49608.98463500925!2d-77.14034549141032!3d39.00250215434355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7cbe1a7a5c225%3A0x245c870d8b7146d1!2sNIH+Building+30!5e0!3m2!1sen!2sus!4v1523481235432",
     "sponsors": [{"name": "NIH", "url": "https://www.nih.gov/", "logo":"https://upload.wikimedia.org/wikipedia/commons/c/c8/NIH_Master_Logo_Vertical_2Color.png"}],
-    "organizers": ["Adam Thomas (chair)", "Dan Handwerker", "Rick Reynolds", "Daniel Glen", "John Lee", "Paul Taylor", "Sean Marrett", "Dylan Nielsen", "Pete Molfese", "Jan Varada", "Junaid Merchant"]
+    "organizers": ["Adam Thomas (chair)", "Dan Handwerker", "Rick Reynolds", "Daniel Glen", "John Lee", "Paul Taylor", "Sean Marrett", "Martin Hebart", "Dylan Nielsen", "Pete Molfese", "Jan Varada", "Junaid Merchant"]
 
 }
